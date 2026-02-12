@@ -1,4 +1,4 @@
-# Online Sales Dashboard
+# Online Store Dashboard
 Power BI dashboard project for data analysis and visualization.
 
 This Power BI project analyzes online store sales data to understand revenue trends, product performance,payment preferences and order status.
