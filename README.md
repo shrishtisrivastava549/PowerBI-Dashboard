@@ -11,5 +11,7 @@ The following KPIs were used to measure business performance and identify sales 
 ### Key Performance Indicators (KPIs)
 
  Total Orders – measures the number of customer purchases
+ 
  Total Sales – shows overall revenue generated
+ 
  Average Order Value – calculates the average spending per order
